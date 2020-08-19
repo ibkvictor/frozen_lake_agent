@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Baby",
+            "request": "launch",
+            "mainClass": "adult.Baby",
+            "projectName": "javas_ec607355"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Baby",
+            "request": "launch",
+            "mainClass": "Baby"
+        }
+    ]
+}
