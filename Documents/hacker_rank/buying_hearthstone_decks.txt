@@ -1,0 +1,9 @@
+# Algorithm
+
+    select(selected array):
+        for i in items 
+            if items less than total
+                continue
+                  store sum and list select()
+        if sum is greatest:
+            return sum and list
